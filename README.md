@@ -1,1 +1,1 @@
-# Concurrent design of molecules and syntheticreaction networks using Bayesian modeling andcomputation
+# Seq-Statck-Reaction: software for "Bayesian sequential stacking algorithm for concurrently designing molecules and syntheticreaction networks"
