@@ -15,7 +15,7 @@
 
 ---
 
-## Installation(#installation)
+## Installation
 
 #### STEP 1: Get source code.
 ```shell
