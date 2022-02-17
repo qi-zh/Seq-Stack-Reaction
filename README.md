@@ -12,6 +12,8 @@
 1. [Installation](#installation)
 2. [Quick start](#quick-start)
 3. [Customize experiment](#customize-experiment)
+4. [Copyright and license](#Copyright-and-license)
+5. [References](#References)
 
 ---
 
@@ -56,3 +58,9 @@ $ conda activate ssr
 
 ---
 ## Customize experiment
+
+---
+## Copyright and license
+
+---
+## References
