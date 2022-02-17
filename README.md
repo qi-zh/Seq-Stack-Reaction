@@ -15,11 +15,19 @@
 
 ## Installation[![](./docs/img/pin.svg)](#installation)
 
-
-STEP 1: Get source code.
+#### STEP 1: Get source code.
 ```shell
 # Step 1: Get sources from GitHub
 $ git clone git@github.com:qi-zh/Seq-Statck-Reaction.git
-$ cd areg-sdk
 ```
+#### STEP 2: Create conda environment.
+
+Make sure you have [Conda](https://docs.conda.io/projects/conda/en/latest/) installed.
+```shell
+# Step 2: Create conda environment
+$ cd conda_env
+$ conda env create -f ssr.yml
+$ conda activate ssr
+```
+
 ---
