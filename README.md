@@ -8,10 +8,10 @@
 
 ---
 
-## Table of contents[![](./docs/img/pin.svg)](#table-of-contents)
+## Table of contents
 1. [Installation](#installation)
-2. [Quick start](#quick-start)
-3. [Customize experiment](#customize-experiment)
+2. [Quick start](#quick_start)
+3. [Customize experiment](#customize_experiment)
 
 ---
 
@@ -51,7 +51,7 @@ $ conda activate ssr
   </tr>
 </table>
 ---
-## Quick start(#quick-start)
+## Quick start(#quick_start)
 
 ---
-## Customize experiment(#customize-experiment)
+## Customize experiment(#customize_experiment)
