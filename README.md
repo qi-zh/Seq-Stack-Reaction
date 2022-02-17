@@ -10,7 +10,7 @@
 
 ## Table of contents
 1. [Installation](#installation)
-2. [Download materials](#)
+2. [Download materials](#download-materials)
 3. [Quick start](#quick-start)
 4. [Customize experiment](#customize-experiment)
 5. [Copyright and license](#Copyright-and-license)
