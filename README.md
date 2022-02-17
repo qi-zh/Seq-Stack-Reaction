@@ -22,7 +22,7 @@ $ git clone git@github.com:qi-zh/Seq-Statck-Reaction.git
 ```
 #### STEP 2: Create conda environment.
 
-Make sure you have [Conda](https://docs.conda.io/projects/conda/en/latest/) {:target="_blank"} installed.
+Make sure you have [Conda](https://docs.conda.io/projects/conda/en/latest/) installed.
 ```shell
 # Step 2: Create conda environment
 $ cd conda_env
