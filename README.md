@@ -29,5 +29,23 @@ $ cd conda_env
 $ conda env create -f ssr.yml
 $ conda activate ssr
 ```
-
+#### The following table list some core packages in SSR images.
+<table>
+  <tr>
+    <td nowrap><strong>Pytorch</strong></td>
+    <td>1.7.1</td>
+  </tr>
+  <tr>
+    <td nowrap><strong>OpenNMT</strong></td>
+    <td>1.2.0</td>
+  </tr>
+  <tr>
+    <td nowrap><strong>rdkit</strong></td>
+    <td>2020.03.1</td>
+  </tr>
+  <tr>
+    <td nowrap><strong>ugtm</strong></td>
+    <td>2.0.0</td>
+  </tr>
+</table>
 ---
