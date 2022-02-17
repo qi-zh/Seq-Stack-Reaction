@@ -10,10 +10,12 @@
 
 ## Table of contents[![](./docs/img/pin.svg)](#table-of-contents)
 1. [Installation](#installation)
+2. [Quick start](#quick-start)
+3. [Customize experiment](#customize-experiment)
 
 ---
 
-## Installation[![](./docs/img/pin.svg)](#installation)
+## Installation(#installation)
 
 #### STEP 1: Get source code.
 ```shell
@@ -49,3 +51,7 @@ $ conda activate ssr
   </tr>
 </table>
 ---
+## Quick start(#quick-start)
+
+---
+## Customize experiment(#customize-experiment)
