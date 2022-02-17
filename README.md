@@ -8,7 +8,7 @@
 
 ---
 
-## Table of contents[![](./docs/img/pin.svg)]
+## Table of contents
 1. [Installation](#installation)
 2. [Download materials](#)
 3. [Quick start](#quick-start)
