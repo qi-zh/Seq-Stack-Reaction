@@ -1,6 +1,5 @@
 <h1 align="center">
   <br>
-  <br>
   Seq-Statck-Reaction
   <br>
 </h1>
@@ -16,6 +15,6 @@
 
 ## Installation[![](./docs/img/pin.svg)](#installation)
 
-haha
+Hello!
 
 ---
