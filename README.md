@@ -15,6 +15,11 @@
 
 ## Installation[![](./docs/img/pin.svg)](#installation)
 
-Hello!
 
+STEP 1: Get source code.
+```shell
+# Step 1: Get sources from GitHub
+$ git clone git@github.com:qi-zh/Seq-Statck-Reaction.git
+$ cd areg-sdk
+```
 ---
