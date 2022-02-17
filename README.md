@@ -50,6 +50,7 @@ $ conda activate ssr
     <td>2.0.0</td>
   </tr>
 </table>
+
 ---
 ## Quick start
 
