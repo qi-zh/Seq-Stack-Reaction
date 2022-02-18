@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">A software for "Bayesian sequential stacking algorithm for concurrently designing molecules and syntheticreaction networks".</h4>
+<h4 align="center">software for "Bayesian sequential stacking algorithm for concurrently designing molecules and syntheticreaction networks"</h4>
 
 ---
 
@@ -60,15 +60,15 @@ $ conda activate ssr
 Download the following components.
 |Component|Description|
 |----|----|
-|[pool.csv](https://github.com/qi-zh/Seq-Statck-Reaction)|Initial reactant pool consists of [Enamine building block catalog lobal stock](https://enamine.net/building-blocks).|
-|[molecular_transformer.pt](https://github.com/qi-zh/Seq-Statck-Reaction)|A Molecular Transformer model that predicts the product SMILES based on the reactant SMILES.|
-|[enamine_gtm](https://github.com/qi-zh/Seq-Statck-Reaction)|A Generative Topographic Maps model for dimensionality reduction and clustering.|
-|[product_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the log P values based on the product molecules.|
-|[product_qed](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the QED values based on the product molecules.|
-|[reactant_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the log P values based on the reactant molecules.|
-|[reactant_qed](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the QED values based on the reactant molecules.|
+|[pool.csv](https://github.com/qi-zh/Seq-Statck-Reaction)|initial reactant pool consists of [Enamine building block catalog lobal stock](https://enamine.net/building-blocks)|
+|[molecular_transformer.pt](https://github.com/qi-zh/Seq-Statck-Reaction)|Molecular Transformer model that predicts the product SMILES based on the reactant SMILES|
+|[enamine_gtm](https://github.com/qi-zh/Seq-Statck-Reaction)|Generative Topographic Maps model for dimensionality reduction and clustering|
+|[product_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|regression model that predicts the log P values based on the product molecules|
+|[product_qed](https://github.com/qi-zh/Seq-Statck-Reaction)|regression model that predicts the QED values based on the product molecules|
+|[reactant_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|regression model that predicts the log P values based on the reactant molecules|
+|[reactant_qed](https://github.com/qi-zh/Seq-Statck-Reaction)|regression model that predicts the QED values based on the reactant molecules|
 
-Refer to the following folder hierarchy, move each model and data to its folder.
+Refer to the following folder hierarchy and move each model and data to its folder.
 
 ```shell
 ─SSR
@@ -92,7 +92,7 @@ Refer to the following folder hierarchy, move each model and data to its folder.
 ---
 ## Quick start
 
-A quick implementation of molecular design.
+quick implementation of molecular design
 
 #### STEP 1: Launch the forward prediction module.
 ```shell
@@ -111,16 +111,16 @@ The following parameters are adjustable in the `ssr/setting.json` file.
 
 |Parameter|Description|
 |----|----|
-|reactor_gpu_id|Index of GPU, -1 for CPU.|
-|n_forward|Number of forward prediction modules.|
-|n_smc_steps|Total number of Sequential Monte Carlo steps.|
-|n|Number of particles in each Sequential Monte Carlo step.|
-|n_r|Number of reaction steps, larger than 1.|
-|generation_threshold|The threshold for filtering the reactant, 1 for only using initial reactants, larger value result to more complex reaction.|
-|product_len|Maxmum length of the product SMILES.|
-|p_exploitation|Proportion of particles for "exploitation".|
-|refresh_rate|The refresh time by which the forward prediction module check the ourput of the Sequential Monte Carlo module.|
-|target_region|A region of the properties of interest.|
+|reactor_gpu_id|index of GPU, -1 for CPU|
+|n_forward|number of forward prediction modules|
+|n_smc_steps|total number of Sequential Monte Carlo steps|
+|n|number of particles in each Sequential Monte Carlo step|
+|n_r|number of reaction steps, larger than 1|
+|generation_threshold|the threshold for filtering the reactant, 1 for only using initial reactants, larger value result to more complex reaction|
+|product_len|maxmum length of the product SMILES|
+|p_exploitation|proportion of particles for "exploitation"|
+|refresh_rate|the refresh time by which the forward prediction module check the ourput of the Sequential Monte Carlo module|
+|target_region|region of the properties of interest|
 
 ---
 ## Copyright and license
