@@ -57,7 +57,25 @@ $ conda activate ssr
 ---
 ## Download materials
 
-Download
+Download the following components,
+<table>
+  <tr>
+    <td nowrap><strong>Component</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td nowrap><strong>pool.csv</strong></td>
+    <td>Initial reactant pool consists of [Enamine building block catalog global stock](https://enamine.net/building-blocks).</td>
+  </tr>
+  <tr>
+    <td nowrap><strong>molecular_transformer.pt</strong></td>
+    <td>pretrained Molecular Transformer model.</td>
+  </tr>
+  <tr>
+    <td nowrap><strong>enamine_gtm</strong></td>
+    <td>Generative topographic mapping model fitted to the pool.csv.</td>
+  </tr>
+</table>
 
 ```shell
 ─SSR
