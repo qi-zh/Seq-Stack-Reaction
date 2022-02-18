@@ -109,20 +109,18 @@ $ python ssr/smc.py
 
 The following parameters are adjustable in the `ssr/setting.json` file.
 
-|Parameter|Values|Description|
-|----|----|----|
-|model_name|||
-|reactor_gpu_id|||
-|n_gpu|||
-|n_smc_steps|||
-|n|||
-|n_r|||
-|generation_threshold|||
-|product_len|||
-|p_exploitation|||
-|refresh_rate|||
-|y_list|||
-|target_region|||
+|Parameter|Description|
+|----|----|
+|reactor_gpu_id|Index of GPU, -1 for CPU.|
+|n_forward|Number of forward prediction modules.|
+|n_smc_steps|Total number of Sequential Monte Carlo steps.|
+|n|Number of particles in each Sequential Monte Carlo step.|
+|n_r|Number of reaction steps, larger than 1.|
+|generation_threshold|The threshold for filtering the reactant, 1 for only using initial reactants, larger value result to more complex reaction.|
+|product_len|Maxmum length of the product SMILES.|
+|p_exploitation|Proportion of particles for "exploitation".|
+|refresh_rate|The refresh time by which the forward prediction module check the ourput of the Sequential Monte Carlo module.|
+|target_region|A region of the properties of interest.|
 
 ---
 ## Copyright and license
