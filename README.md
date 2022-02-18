@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Seq-Statck-Reaction
+  Seq-Stack-Reaction
   <br>
 </h1>
 
