@@ -68,7 +68,7 @@ Download the following components.
 |[reactant_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the log P values based on the reactant molecules.|
 |[reactant_qed](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the QED values based on the reactant molecules.|
 
-refer to the following folder hierarchy, move each model and data to its folder.
+Refer to the following folder hierarchy, move each model and data to its folder.
 
 ```shell
 ─SSR
@@ -93,6 +93,19 @@ refer to the following folder hierarchy, move each model and data to its folder.
 ## Quick start
 
 A quick implementation of molecular design.
+
+#### STEP 1: Launch the forward prediction module.
+```shell
+# Run the following command in a shell session.
+$ python ssr/forward.py
+```
+#### STEP 2: Launch the Sequential Monte Carlo module.
+```shell
+# Run the following command in another shell session.
+$ python ssr/smc.py
+```
+
+#### The default path of the result is SSR/results
 
 ---
 ## Customize experiment
