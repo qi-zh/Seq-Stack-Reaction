@@ -65,7 +65,7 @@ Download the following components,
   </tr>
   <tr>
     <td nowrap><strong>pool.csv</strong></td>
-    <td>Initial reactant pool consists of [Enamine building block catalog global stock](https://enamine.net/building-blocks).</td>
+    <td>Initial reactant pool consists of [Enamine-building-block-catalog-global-stock](https://enamine.net/building-blocks).</td>
   </tr>
   <tr>
     <td nowrap><strong>molecular_transformer.pt</strong></td>
