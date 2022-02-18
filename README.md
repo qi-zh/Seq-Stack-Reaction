@@ -34,7 +34,7 @@ $ cd conda_env
 $ conda env create -f ssr.yml
 $ conda activate ssr
 ```
-#### The following table list some core packages in SSR images.
+#### The following table lists some core packages in SSR images.
 <table>
   <tr>
     <td nowrap><strong>Pytorch</strong></td>
