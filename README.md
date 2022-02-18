@@ -57,13 +57,18 @@ $ conda activate ssr
 ---
 ## Download materials
 
-Download the following components,
+Download the following components.
 |Component|Description|
 |----|----|
 |[pool.csv](https://github.com/qi-zh/Seq-Statck-Reaction)|Initial reactant pool consists of [Enamine building block catalog lobal stock](https://enamine.net/building-blocks).|
-|[molecular_transformer.pt](https://github.com/qi-zh/Seq-Statck-Reaction)|Pretrained Molecular Transformer model.|
-|[enamine_gtm](https://github.com/qi-zh/Seq-Statck-Reaction)|Generative Topographic Maps model which is fitted to the pool.csv.|
-|[product_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|Generative Topographic Maps model fitted to the pool.csv.|
+|[molecular_transformer.pt](https://github.com/qi-zh/Seq-Statck-Reaction)|A Molecular Transformer model that predicts the product SMILES based on the reactant SMILES.|
+|[enamine_gtm](https://github.com/qi-zh/Seq-Statck-Reaction)|A Generative Topographic Maps model for dimensionality reduction and clustering.|
+|[product_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the log P values based on the product molecules.|
+|[product_qed](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the QED values based on the product molecules.|
+|[reactant_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the log P values based on the reactant molecules.|
+|[reactant_qed](https://github.com/qi-zh/Seq-Statck-Reaction)|A regression model that predicts the QED values based on the reactant molecules.|
+
+refer to the following folder hierarchy, move each model and data to its folder.
 
 ```shell
 ─SSR
