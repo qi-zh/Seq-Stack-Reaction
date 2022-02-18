@@ -58,11 +58,14 @@ $ conda activate ssr
 ## Download materials
 
 ```shell
-├SSR
-│├ssr
-|├data
-|├model
-|└conda_env
+└SSR
+ ├ssr
+ ├data
+ ├model
+ │├molecular_transformer.pt
+ │├GTM
+ │└QSPR
+ └conda_env
 ```
 
 ---
