@@ -58,8 +58,11 @@ $ conda activate ssr
 ## Download materials
 
 ```shell
-|-- SSR
-|    |--ssr
+├SSR
+│├ssr
+|├data
+|├model
+|└conda_env
 ```
 
 ---
