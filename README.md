@@ -104,11 +104,25 @@ $ python ssr/forward.py
 # Run the following command in another shell session.
 $ python ssr/smc.py
 ```
-
-#### The default path of the result is SSR/results
-
 ---
 ## Customize experiment
+
+The following parameters are adjustable in the `ssr/setting.json` file.
+
+|Parameter|Values|Description|
+|----|----|----|
+|model_name|||
+|reactor_gpu_id|||
+|n_gpu|||
+|n_smc_steps|||
+|n|||
+|n_r|||
+|generation_threshold|||
+|product_len|||
+|p_exploitation|||
+|refresh_rate|||
+|y_list|||
+|target_region|||
 
 ---
 ## Copyright and license
