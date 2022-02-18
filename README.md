@@ -57,8 +57,10 @@ $ conda activate ssr
 ---
 ## Download materials
 
+Download
+
 ```shell
-└SSR
+─SSR
  ├─ssr
  │ └─*.csv
  ├─data
