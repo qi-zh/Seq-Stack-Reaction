@@ -107,6 +107,7 @@ $ python ssr/smc.py
 ---
 ## Customize experiment
 
+#### customize parameters
 The following parameters are adjustable in the `ssr/setting.json` file.
 
 |Parameter|Description|
@@ -121,6 +122,9 @@ The following parameters are adjustable in the `ssr/setting.json` file.
 |p_exploitation|proportion of particles for "exploitation"|
 |refresh_rate|the refresh time by which the forward prediction module check the ourput of the Sequential Monte Carlo module|
 |target_region|region of the properties of interest|
+
+#### customize models
+coming soon
 
 ---
 ## Copyright and license
