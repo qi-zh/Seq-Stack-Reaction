@@ -57,6 +57,11 @@ $ conda activate ssr
 ---
 ## Download materials
 
+```shell
+|-- SSR
+|    |--ssr
+```
+
 ---
 ## Quick start
 
