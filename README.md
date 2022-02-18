@@ -62,7 +62,8 @@ Download the following components,
 |----|----|
 |[pool.csv](https://github.com/qi-zh/Seq-Statck-Reaction)|Initial reactant pool consists of [Enamine building block catalog lobal stock](https://enamine.net/building-blocks).|
 |[molecular_transformer.pt](https://github.com/qi-zh/Seq-Statck-Reaction)|Pretrained Molecular Transformer model.|
-|[enamine_gtm](https://github.com/qi-zh/Seq-Statck-Reaction)|Generative Topographic Maps model fitted to the pool.csv.|
+|[enamine_gtm](https://github.com/qi-zh/Seq-Statck-Reaction)|Generative Topographic Maps model which is fitted to the pool.csv.|
+|[product_logp](https://github.com/qi-zh/Seq-Statck-Reaction)|Generative Topographic Maps model fitted to the pool.csv.|
 
 ```shell
 ─SSR
