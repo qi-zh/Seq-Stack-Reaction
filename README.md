@@ -59,20 +59,21 @@ $ conda activate ssr
 
 ```shell
 └SSR
- ├ssr
- │└*.csv
- ├data
- │└pool.csv
- ├model
- │├molecular_transformer.pt
- │├GTM
- ││└enamine_gtm
- │└QSPR
- │ ├product_logp
- │ ├product_qed
- │ ├reactant_logp
- │ └reactant_qed
- └conda_env
+ ├─ssr
+ │ └─*.csv
+ ├─data
+ │ └─pool.csv
+ ├─model
+ │ ├─molecular_transformer.pt
+ │ ├─GTM
+ │ │ └─enamine_gtm
+ │ └─QSPR
+ │   ├─product_logp
+ │   ├─product_qed
+ │   ├─reactant_logp
+ │   └─reactant_qed
+ └─conda_env
+   └─ssr.yml
 ```
 
 ---
