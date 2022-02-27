@@ -6,3 +6,4 @@ ssr/*
 *.ipynb
 pred.txt
 setting.json
+ssr/__pycache__/
