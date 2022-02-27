@@ -134,4 +134,3 @@ dependencies:
     - waitress==2.0.0
     - werkzeug==2.0.3
     - zipp==3.7.0
-prefix: /home/qiz/miniconda3/envs/ssr
