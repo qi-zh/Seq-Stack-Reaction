@@ -73,7 +73,7 @@ Refer to the following folder hierarchy and move each model and data to its fold
 ```shell
 ─SSR
  ├─ssr
- │ └─*.csv
+ │ └─*.py
  ├─data
  │ └─pool.csv
  ├─model
@@ -85,8 +85,10 @@ Refer to the following folder hierarchy and move each model and data to its fold
  │   ├─product_qed
  │   ├─reactant_logp
  │   └─reactant_qed
- └─conda_env
-   └─ssr.yml
+ ├─conda_env
+ │ └─ssr.yml
+ ├─*.py
+ └─*.ipynb
 ```
 
 ---
@@ -97,12 +99,12 @@ quick implementation of molecular design
 #### STEP 1: Launch the forward prediction module.
 ```shell
 # Run the following command in a shell session.
-$ python ssr/forward.py
+$ python launch_forward.py
 ```
 #### STEP 2: Launch the Sequential Monte Carlo module.
 ```shell
 # Run the following command in another shell session.
-$ python ssr/smc.py
+$ python launch_smc.py
 ```
 ---
 ## Customize experiment
