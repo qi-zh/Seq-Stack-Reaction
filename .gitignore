@@ -1,0 +1,8 @@
+data/*
+model/*
+results/
+ssr/*
+*.py
+*.ipynb
+pred.txt
+setting.json
