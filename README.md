@@ -126,7 +126,11 @@ The following parameters are adjustable in the `ssr/setting.json` file.
 |target_region|region of the properties of interest|
 
 #### customize models
-coming soon
+Seq-Stack-Reaction provides a scaffolding for molecular design, where users can plug-in arbitrary reaction prediction models, property prediction models, and a set of commercial compounds.
+
+To use your property prediction models and the set of commercial compounds, simply modify the model/data path in the `ssr/setting.json` file.
+
+To use your customized reaction prediction model, see this [guidence](https://github.com/qi-zh/Seq-Statck-Reaction).
 
 ---
 ## Copyright and license
