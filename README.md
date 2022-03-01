@@ -130,7 +130,7 @@ Seq-Stack-Reaction provides a scaffolding for molecular design, where users can 
 
 To use your property prediction models and the set of commercial compounds, simply modify the model/data path in the `ssr/setting.json` file.
 
-To use your customized reaction prediction model, see this [guidence](https://github.com/qi-zh/Seq-Statck-Reaction).
+To use your customized reaction prediction model, see this [guidence](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/customization.ipynb).
 
 ---
 ## Copyright and license
