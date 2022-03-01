@@ -1,0 +1,16 @@
+{
+"main_path": "./",
+"model_name": "SMC-RECUR_GTM_SR_PL",
+"reactor_gpu_id": -1,
+"n_forward": 1,
+"n_smc_steps" : 100,
+"n" : 200,
+"n_r": 2,
+"generation_threshold" : 2,
+"product_len" : 200,
+"target_temperature": -3,
+"p_exploitation": 0.7,
+"refresh_rate": 1,
+"y_list": ["qed", "logp"],
+"target_region": {"qed": [0.8, 1], "logp": [-10, 5]}
+}

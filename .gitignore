@@ -1,9 +1,6 @@
 data/*
 model/*
 results/
-ssr/*
-*.py
-*.ipynb
 pred.txt
-setting.json
 ssr/__pycache__/
+ssr/.ipynb_checkpoints/
