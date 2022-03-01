@@ -4,3 +4,4 @@ results/
 pred.txt
 ssr/__pycache__/
 ssr/.ipynb_checkpoints/
+.ipynb_checkpoints/
