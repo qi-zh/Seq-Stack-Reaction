@@ -13,7 +13,7 @@
 2. [Download materials](#download-materials)
 3. [Quick start](#quick-start)
 4. [Customize experiment](#customize-experiment)
-5. [Applications](#Application 2: design of highly viscous lubricant molecules)
+5. [Applications](#Applications)
 6. [Copyright and license](#Copyright-and-license)
 7. [References](#References)
 
@@ -133,6 +133,8 @@ To use your property prediction models and the set of commercial compounds, simp
 
 To use your customized reaction prediction model, see this [guidence](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/customization.ipynb).
 
+---
+## Applications
 ---
 ## Application 1: design of drug-like molecules
 
