@@ -128,7 +128,7 @@ To use your customized reaction prediction model, see this [guidence](https://gi
 ## Application 1: design of drug-like molecules
 ### Introduction
 
-The task is to design drug-like molecules with a any given region of drug-likeness (QED) score and logP.
+The task is to design drug-like molecules with any given region of drug-likeness (QED) score and logP.
 
 ### Download materials
 
