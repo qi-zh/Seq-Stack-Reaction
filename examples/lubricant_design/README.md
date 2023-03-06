@@ -2,7 +2,7 @@
   
 </h1>
 
-<h4 align="center"> Scripts to implement the molecular design with materials science-related properties as the target.</h4>
+<h4 align="center"> Scripts to implement the molecular design with lubricant-related properties as the target.</h4>
 
 ---
 ## Quick start
