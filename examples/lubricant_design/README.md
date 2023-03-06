@@ -15,10 +15,10 @@ The scripts in this folder and the models from the following links are used for 
 The forward property prediction models.
 |Component|Description|
 |----|----|
-|[product_tb](https://figshare.com/ndownloader/files/39308273)|regression model that predicts the normal boiling temperature values based on the product molecules|
-|[product_cp](https://figshare.com/ndownloader/files/39308270)|regression model that predicts the critcal pressure values based on the product molecules|
-|[reactant_tb](https://figshare.com/ndownloader/files/39308279)|regression model that predicts the normal boiling temperature values based on the reactant molecules|
-|[reactant_cp](https://figshare.com/ndownloader/files/393082766)|regression model that predicts the critcal pressure values based on the reactant molecules|
+|[product_vi](https://figshare.com/ndownloader/files/39489250)|regression model that predicts the viscosity index values based on the product molecules|
+|[product_dvi](https://figshare.com/ndownloader/files/39489253)|regression model that predicts the dynamic viscosity index values based on the product molecules|
+|[reactant_vi](https://figshare.com/ndownloader/files/39489259)|regression model that predicts the viscosity index values based on the reactant molecules|
+|[reactant_dvi](https://figshare.com/ndownloader/files/39489256)|regression model that predicts the dynamic viscosity index values based on the reactant molecules|
 
 ---
 
