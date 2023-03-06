@@ -133,6 +133,10 @@ To use your property prediction models and the set of commercial compounds, simp
 To use your customized reaction prediction model, see this [guidence](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/customization.ipynb).
 
 ---
+## Experiment
+Some experiments with models and scripts are provided in [this folder](https://github.com/qi-zh/Seq-Stack-Reaction/tree/main/examples/lubricant_design).
+
+---
 ## Copyright and license
 
 ---
