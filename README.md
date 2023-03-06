@@ -13,7 +13,7 @@
 2. [Download materials](#download-materials)
 3. [Quick start](#quick-start)
 4. [Customize experiment](#customize-experiment)
-5. [Application 2: design of highly viscous lubricant molecules](#Application 2: design of highly viscous lubricant molecules)
+5. [Applications](#Application 2: design of highly viscous lubricant molecules)
 6. [Copyright and license](#Copyright-and-license)
 7. [References](#References)
 
