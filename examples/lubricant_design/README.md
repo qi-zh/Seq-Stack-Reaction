@@ -7,7 +7,11 @@
 ---
 ## Quick start
 
-The scripts in this folder and the models from the following links are used for designing materials molecules with a specific normal boiling temperature and critcal pressure, the target can be signed in the setting.json file.
+An example application in materials science. The task is to identify highly viscous lubricant
+molecules. Using approximately 55,000 samples obtained from all-atom classical molecular dynamics
+simulations, we predict the viscosity index (VI) and dynamic viscosity index (DVI) (properties that
+describe the temperature dependence of viscosity) from the chemical structure of any given lubricant
+molecule.
 
 ---
 ## Download materials
@@ -19,6 +23,10 @@ The forward property prediction models.
 |[product_dvi](https://figshare.com/ndownloader/files/39489253)|regression model that predicts the dynamic viscosity index values based on the product molecules|
 |[reactant_vi](https://figshare.com/ndownloader/files/39489259)|regression model that predicts the viscosity index values based on the reactant molecules|
 |[reactant_dvi](https://figshare.com/ndownloader/files/39489256)|regression model that predicts the dynamic viscosity index values based on the reactant molecules|
+
+---
+## Data
+Refer to [Kajita et al.](https://www.nature.com/articles/s42005-020-0338-y#Sec14) for more details about the design of this experiment and the data used for model training.
 
 ---
 
