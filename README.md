@@ -13,8 +13,9 @@
 2. [Download materials](#download-materials)
 3. [Quick start](#quick-start)
 4. [Customize experiment](#customize-experiment)
-5. [Copyright and license](#Copyright-and-license)
-6. [References](#References)
+5. [Application 2: design of highly viscous lubricant molecules](#Application 2: design of highly viscous lubricant molecules)
+6. [Copyright and license](#Copyright-and-license)
+7. [References](#References)
 
 ---
 
@@ -136,7 +137,8 @@ To use your customized reaction prediction model, see this [guidence](https://gi
 ## Application 1: design of drug-like molecules
 
 ---
-## [Application 2: design of highly viscous lubricant molecules](https://github.com/qi-zh/Seq-Stack-Reaction/tree/main/examples/lubricant_design)
+## Application 2: design of highly viscous lubricant molecules
+##### [Link](https://github.com/qi-zh/Seq-Stack-Reaction/tree/main/examples/lubricant_design)
 
 ---
 ### Introduction
