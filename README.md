@@ -139,7 +139,7 @@ To use your customized reaction prediction model, see this [guidence](https://gi
 ## Application 1: design of drug-like molecules
 
 ---
-## [Application 2: design of highly viscous lubricant molecules](https://github.com/qi-zh/Seq-Stack-Reaction/tree/main/examples/lubricant_design)
+## Application 2: design of highly viscous lubricant molecules
 
 ---
 ### Introduction
