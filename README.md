@@ -150,7 +150,7 @@ molecule.
 ---
 ### Download materials
 
-The forward property prediction models.
+Download Python pre-trained model.
 |Component|Description|
 |----|----|
 |[product_vi](https://figshare.com/ndownloader/files/39489250)|regression model that predicts the viscosity index values based on the product molecules|
@@ -160,7 +160,7 @@ The forward property prediction models.
 
 ---
 ### Data
-Refer to [Kajita et al.](https://www.nature.com/articles/s42005-020-0338-y#Sec14) for more details about the design of this experiment and the data used for model training.
+##### Refer to [Kajita et al.](https://www.nature.com/articles/s42005-020-0338-y#Sec14) for more details about the design of this experiment and the data used for model training.
 ---
 ## Copyright and license
 
