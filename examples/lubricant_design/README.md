@@ -34,6 +34,7 @@ Refer to [Kajita et al.](https://www.nature.com/articles/s42005-020-0338-y#Sec14
 
 ---
 ## Designed synthetic path
+<img "https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route1.png" width=300>
 ![path1](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route1.png)
 ![path2](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route2.png)
 ![path3](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route3.png)
