@@ -29,4 +29,15 @@ The forward property prediction models.
 Refer to [Kajita et al.](https://www.nature.com/articles/s42005-020-0338-y#Sec14) for more details about the design of this experiment and the data used for model training.
 
 ---
+## Properties in different steps
+![property](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/properties.png)
+
+---
+## Designed synthetic path
+![path1](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route1.png)
+![path2](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route2.png)
+![path3](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route3.png)
+![path4](https://github.com/qi-zh/Seq-Stack-Reaction/blob/main/examples/lubricant_design/synthetic_path/route4.png)
+
+---
 
