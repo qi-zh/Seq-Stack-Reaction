@@ -191,11 +191,11 @@ Download Python pre-trained model.
 
 ---
 ## References
-Landrum G, et al. Rdkit: Open-source cheminformatics. 2006. http://rdkit.org/
+Landrum, G. et al. RDKit: Open-source cheminformatics (2006). http://rdkit.org/
 
-Durant JL, Leland BA, Henry DR, et al. Reoptimization of mdl keys for use in drug discovery. Journal of Chemical Information and Computer Sciences. 2002;42(6):1273–1280. https://www.semanticscholar.org/paper/Reoptimization-of-MDL-Keys-for-Use-in-Drug-Durant-Leland/ad40b25e38314f39a82f193dc4806e6a1c2c6b69
+Durant, J. L., Leland, B.A., Henry, D.R., et al. Reoptimization of MDL keys for use in drug discovery. J Chem Inf Comput Sci 42, 6. 1273–1280 (2002). https://www.semanticscholar.org/paper/Reoptimization-of-MDL-Keys-for-Use-in-Drug-Durant-Leland/ad40b25e38314f39a82f193dc4806e6a1c2c6b69
 
-Morgan HL. The generation of a unique machine description for chemical structures-a technique developed at chemical abstracts service. Journal of Chemical Documentation. 1965;5(2):107–113 https://pubs.acs.org/doi/10.1021/c160017a018
+Morgan, H.L. The generation of a unique machine description for chemical structures-a technique developed at chemical abstracts service. J Chem Doc 5, 107–113 (1965). https://pubs.acs.org/doi/10.1021/c160017a018
 
 Schwaller, Philippe, et al. "Molecular transformer: a model for uncertainty-calibrated chemical reaction prediction." ACS central science 5.9 (2019): 1572-1583. https://pubmed.ncbi.nlm.nih.gov/31572784/
 
