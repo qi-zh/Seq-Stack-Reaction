@@ -193,10 +193,10 @@ Download Python pre-trained model.
 ## References
 Landrum, G. et al. RDKit: Open-source cheminformatics (2006). http://rdkit.org/
 
-Durant, J. L., Leland, B.A., Henry, D.R., et al. Reoptimization of MDL keys for use in drug discovery. J Chem Inf Comput Sci 42, 6. 1273–1280 (2002). https://www.semanticscholar.org/paper/Reoptimization-of-MDL-Keys-for-Use-in-Drug-Durant-Leland/ad40b25e38314f39a82f193dc4806e6a1c2c6b69
+Durant, J. L., Leland, B.A., Henry, D.R., et al. Reoptimization of MDL keys for use in drug discovery. J Chem Inf Comput Sci 42, 1273–1280 (2002). https://www.semanticscholar.org/paper/Reoptimization-of-MDL-Keys-for-Use-in-Drug-Durant-Leland/ad40b25e38314f39a82f193dc4806e6a1c2c6b69
 
 Morgan, H.L. The generation of a unique machine description for chemical structures-a technique developed at chemical abstracts service. J Chem Doc 5, 107–113 (1965). https://pubs.acs.org/doi/10.1021/c160017a018
 
-Schwaller, P. et al. Molecular Transformer: a model for uncertainty-calibrated chemical reaction prediction. ACS Cent Sci 5, 9 1572-1583 (2019). https://pubmed.ncbi.nlm.nih.gov/31572784/
+Schwaller, P. et al. Molecular Transformer: a model for uncertainty-calibrated chemical reaction prediction. ACS Cent Sci 5, 1572-1583 (2019). https://pubmed.ncbi.nlm.nih.gov/31572784/
 
 Kajita, S., Kinjo, T., Nishi, T. Autonomous molecular design by Monte-Carlo tree search and rapid evaluations using molecular dynamics simulations. Commun Phys 3, 77 (2020). https://doi.org/10.1038/s42005-020-0338-y
