@@ -140,10 +140,10 @@ Download the following components.
 |[pool.csv](https://figshare.com/articles/dataset/Enamine_SMILES/19249589)|Initial reactant pool consists of [Enamine building block catalog lobal stock](https://enamine.net/building-blocks)|
 |[molecular_transformer.pt](https://figshare.com/articles/software/Molecular_transformer/19249523)|Molecular Transformer model that predicts the product SMILES based on the reactant SMILES|
 |[enamine_gtm](https://figshare.com/articles/software/enamine_gtm/19249493)|Generative Topographic Maps model for dimensionality reduction and clustering|
-|[product_logp](https://figshare.com/articles/software/Property_prediction_model/19249526)|regression model that predicts the log P values based on the product molecules|
-|[product_qed](https://figshare.com/articles/software/Property_prediction_model/19249526)|regression model that predicts the QED values based on the product molecules|
-|[reactant_logp](https://figshare.com/articles/software/Property_prediction_model/19249526n)|regression model that predicts the log P values based on the reactant molecules|
-|[reactant_qed](https://figshare.com/articles/software/Property_prediction_model/19249526)|regression model that predicts the QED values based on the reactant molecules|
+|[product_logp](https://figshare.com/articles/software/Property_prediction_model/19249526)|regression model that predicts the log P value for a given product molecule|
+|[product_qed](https://figshare.com/articles/software/Property_prediction_model/19249526)|regression model that predicts the QED value for a given product molecule|
+|[reactant_logp](https://figshare.com/articles/software/Property_prediction_model/19249526n)|regression model that predicts the log P value for a given product molecule|
+|[reactant_qed](https://figshare.com/articles/software/Property_prediction_model/19249526)|regression model that predicts the QED value for a given product molecule|
 
 ---
 ## Application 2: design of highly viscous lubricant molecules
