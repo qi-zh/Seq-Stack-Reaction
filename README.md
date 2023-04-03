@@ -106,16 +106,16 @@ The following parameters are adjustable in the `ssr/setting.json` file.
 
 |Parameter|Description|
 |----|----|
-|reactor_gpu_id|index of GPU, -1 for CPU|
-|n_forward|number of forward prediction modules|
-|n_smc_steps|total number of Sequential Monte Carlo steps|
-|n|number of particles in each Sequential Monte Carlo step|
-|n_r|number of reaction steps, larger than 1|
-|generation_threshold|the threshold for filtering the reactant, 1 for only using initial reactants, larger value result to more complex reaction|
-|product_len|maxmum length of the product SMILES|
-|p_exploitation|proportion of particles for "exploitation"|
-|refresh_rate|the refresh time by which the forward prediction module check the ourput of the Sequential Monte Carlo module|
-|target_region|region of the properties of interest|
+|reactor_gpu_id|Index of GPU, -1 for CPU|
+|n_forward|Number of forward prediction modules|
+|n_smc_steps|Total number of Sequential Monte Carlo steps|
+|n|Number of particles in each Sequential Monte Carlo step|
+|n_r|Number of reaction steps, larger than 1|
+|generation_threshold|The threshold for filtering the reactant, 1 for only using initial reactants, larger value result to more complex reaction|
+|product_len|Maxmum length of the product SMILES|
+|p_exploitation|Proportion of particles for "exploitation"|
+|refresh_rate|The refresh time by which the forward prediction module check the ourput of the Sequential Monte Carlo module|
+|target_region|Region of the properties of interest|
 
 #### customize models
 Seq-Stack-Reaction provides a scaffolding for molecular design, where users can plug-in arbitrary reaction prediction models, property prediction models, and a set of commercial compounds.
