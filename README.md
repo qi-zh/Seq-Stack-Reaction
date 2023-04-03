@@ -178,10 +178,10 @@ First, forward models predicting VI and DVI are constructed. An input molecule i
 Download Python pre-trained model.
 |Component|Description|
 |----|----|
-|[product_vi](https://figshare.com/ndownloader/files/39489250)|regression model that predicts the viscosity index values based on the product molecules|
-|[product_dvi](https://figshare.com/ndownloader/files/39489253)|regression model that predicts the dynamic viscosity index values based on the product molecules|
-|[reactant_vi](https://figshare.com/ndownloader/files/39489259)|regression model that predicts the viscosity index values based on the reactant molecules|
-|[reactant_dvi](https://figshare.com/ndownloader/files/39489256)|regression model that predicts the dynamic viscosity index values based on the reactant molecules|
+|[product_vi](https://figshare.com/ndownloader/files/39489250)|Regression model that predicts the viscosity index value for a given product molecule|
+|[product_dvi](https://figshare.com/ndownloader/files/39489253)|Regression model that predicts the dynamic viscosity index value for a given product molecule|
+|[reactant_vi](https://figshare.com/ndownloader/files/39489259)|Regression model that predicts the viscosity index value for a reactant set|
+|[reactant_dvi](https://figshare.com/ndownloader/files/39489256)|Regression model that predicts the dynamic viscosity index value for a reactant set|
 
 ---
 ### Data
