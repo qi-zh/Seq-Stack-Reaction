@@ -197,6 +197,6 @@ Durant, J. L., Leland, B.A., Henry, D.R., et al. Reoptimization of MDL keys for 
 
 Morgan, H.L. The generation of a unique machine description for chemical structures-a technique developed at chemical abstracts service. J Chem Doc 5, 107–113 (1965). https://pubs.acs.org/doi/10.1021/c160017a018
 
-Schwaller, P. et al. Molecular Transformer: a model for uncertainty-calibrated chemical reaction prediction. ACS Cent Sci 5, 9 1572-1583 (2019).
+Schwaller, P. et al. Molecular Transformer: a model for uncertainty-calibrated chemical reaction prediction. ACS Cent Sci 5, 9 1572-1583 (2019). https://pubmed.ncbi.nlm.nih.gov/31572784/
 
 Kajita, S., Kinjo, T., Nishi, T. Autonomous molecular design by Monte-Carlo tree search and rapid evaluations using molecular dynamics simulations. Commun Phys 3, 77 (2020). https://doi.org/10.1038/s42005-020-0338-y
