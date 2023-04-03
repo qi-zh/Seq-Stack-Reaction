@@ -191,7 +191,7 @@ Download Python pre-trained model.
 
 ---
 ## References
-Landrum G, et al. Rdkit: Open-source cheminformatics. 2006; http://rdkit.org/
+Landrum G, et al. Rdkit: Open-source cheminformatics. 2006. http://rdkit.org/
 
 Durant JL, Leland BA, Henry DR, et al. Reoptimization of mdl keys for use in drug discovery. Journal of Chemical Information and Computer Sciences. 2002;42(6):1273–1280. https://www.semanticscholar.org/paper/Reoptimization-of-MDL-Keys-for-Use-in-Drug-Durant-Leland/ad40b25e38314f39a82f193dc4806e6a1c2c6b69
 
