@@ -191,3 +191,4 @@ Download Python pre-trained model.
 
 ---
 ## References
+Kajita, S., Kinjo, T., Nishi, T. Autonomous molecular design by Monte-Carlo tree search and rapid evaluations using molecular dynamics simulations. Commun Phys 3, 77 (2020). https://doi.org/10.1038/s42005-020-0338-y
